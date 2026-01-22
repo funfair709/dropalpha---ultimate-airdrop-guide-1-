@@ -1,0 +1,8 @@
+
+{
+  "name": "DropAlpha - Ultimate Airdrop Guide",
+  "description": "A comprehensive, AI-powered platform to discover, track, and participate in the most lucrative cryptocurrency airdrops across multiple chains.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
